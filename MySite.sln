@@ -5,19 +5,19 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{144BF8BF-66FB-4C15-9CE9-24EE68DBF7E3}"
 	ProjectSection(SolutionItems) = preProject
-		..\CSS - My Site\index.html = ..\CSS - My Site\index.html
+		index.html = index.html
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS", "CSS", "{D4AB2F2F-5273-4830-800F-8F576013F198}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS", "CSS", "{8672287E-8350-4396-8123-9964BA23F4AA}"
 	ProjectSection(SolutionItems) = preProject
-		..\CSS - My Site\CSS\styles.css = ..\CSS - My Site\CSS\styles.css
+		CSS\styles.css = CSS\styles.css
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{65C4825F-3F5E-4E28-AC14-FBB2FCFE99B8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{6546682F-8831-4917-8F44-A9ACD4997503}"
 	ProjectSection(SolutionItems) = preProject
-		..\CSS - My Site\Images\cloud.png = ..\CSS - My Site\Images\cloud.png
-		..\CSS - My Site\Images\Kahve_Icon.ico = ..\CSS - My Site\Images\Kahve_Icon.ico
-		..\CSS - My Site\Images\mountain.png = ..\CSS - My Site\Images\mountain.png
+		Images\cloud.png = Images\cloud.png
+		Images\Kahve_Icon.ico = Images\Kahve_Icon.ico
+		Images\mountain.png = Images\mountain.png
 	EndProjectSection
 EndProject
 Global
@@ -25,8 +25,8 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{D4AB2F2F-5273-4830-800F-8F576013F198} = {144BF8BF-66FB-4C15-9CE9-24EE68DBF7E3}
-		{65C4825F-3F5E-4E28-AC14-FBB2FCFE99B8} = {144BF8BF-66FB-4C15-9CE9-24EE68DBF7E3}
+		{8672287E-8350-4396-8123-9964BA23F4AA} = {144BF8BF-66FB-4C15-9CE9-24EE68DBF7E3}
+		{6546682F-8831-4917-8F44-A9ACD4997503} = {144BF8BF-66FB-4C15-9CE9-24EE68DBF7E3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {909C0D03-5893-4043-9E0E-DB694E8CAB40}
