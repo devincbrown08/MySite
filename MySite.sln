@@ -16,8 +16,11 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{6546682F-8831-4917-8F44-A9ACD4997503}"
 	ProjectSection(SolutionItems) = preProject
 		Images\cloud.png = Images\cloud.png
+		Images\database-design.png = Images\database-design.png
+		Images\giphy.gif = Images\giphy.gif
 		Images\Kahve_Icon.ico = Images\Kahve_Icon.ico
-		Images\mountain.png = Images\mountain.png
+		Images\Me.png = Images\Me.png
+		Images\web-design.png = Images\web-design.png
 	EndProjectSection
 EndProject
 Global
